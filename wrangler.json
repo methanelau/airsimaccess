@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "airsimaccess",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ccd90c64-3eca-4c76-b2c4-a7dcb758400e",
+      "database_name": "wispy-cloud-7480-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
